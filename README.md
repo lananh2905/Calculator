@@ -4,9 +4,11 @@ This is a **Basic Calculator** project created with [`create-expo-app`](https://
 
 ## Get started
 
-1. Install dependencies
+1. Install app
 
    ```bash
+   git clone https://github.com/lananh2905/Calculator.git
+   cd Calculator
    npm install
    ```
 

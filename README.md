@@ -4,7 +4,7 @@ This is a **Basic Calculator** project created with [`create-expo-app`](https://
 
 ## Get started
 
-1. Install app
+**1. Install app**
 
    ```bash
    git clone https://github.com/lananh2905/Calculator.git
@@ -12,12 +12,12 @@ This is a **Basic Calculator** project created with [`create-expo-app`](https://
    npm install
    ```
 
-2. Start the app
+**2. Start the app**
 
    ```bash
     npx expo start
    ```
-- **Note:** If it still doesn't work, it may be due to the router configuration — this is common for public networks. You can work around this by choosing the Tunnel connection type when starting the development server, then scanning the QR code again.
+**Note:** If it still doesn't work, it may be due to the router configuration — this is common for public networks. You can work around this by choosing the Tunnel connection type when starting the development server, then scanning the QR code again.
 
    ```bash
     npx expo start --tunnel
